@@ -44,24 +44,6 @@ interests:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=BotGno&show_icons=true&theme=dark&bg_color=0d0800&title_color=d4a853&icon_color=a07840&text_color=c8a96e&border_color=3d2100&hide_border=false&count_private=true" alt="GitHub Stats"/>
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BotGno&layout=compact&theme=dark&bg_color=0d0800&title_color=d4a853&text_color=c8a96e&border_color=3d2100" alt="Top Languages"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=BotGno&theme=dark&background=0d0800&border=3d2100&ring=d4a853&fire=c87941&currStreakNum=c8a96e&sideNums=c8a96e&currStreakLabel=a07840&sideLabels=a07840&dates=6b4f2a)](https://git.io/streak-stats)
-
-</div>
-
----
-
 ## 🛠️ What I'm Working On
 
 - 🔁 Building and managing **CI/CD pipelines** for real-world app deployments
