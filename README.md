@@ -24,7 +24,12 @@ interests:
   - linux
   - security practices
 ```
+## Current project am working on
+<div align="center">
+  
+[![Fixer](https://img.shields.io/badge/Fixer-1a0f00?style=for-the-badge&logo=github&logoColor=00a830)](https://github.com/BotGno/Fixer)
 
+</div>
 ---
 
 ## 🔧 Tech Stack
@@ -44,7 +49,7 @@ interests:
 
 ---
 
-## 🛠️ What I'm Working On
+## 🛠️ What I'm Working With
 
 - 🔁 Building and managing **CI/CD pipelines** for real-world app deployments
 - ☸️ Configuring **Kubernetes clusters** and deployment runners
