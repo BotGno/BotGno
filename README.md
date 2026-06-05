@@ -30,7 +30,6 @@ interests:
 [![Fixer](https://img.shields.io/badge/Fixer-1a0f00?style=for-the-badge&logo=github&logoColor=00a830)](https://github.com/BotGno/Fixer)
 
 </div>
----
 
 ## 🔧 Tech Stack
 
