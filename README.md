@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff48,50:00a830,100:017021&height=180&section=header&text=Elnor%20Tankiev&fontSize=42&fontColor=1a4d28&fontAlignY=38&desc=DevOps%20Engineer&descSize=18&descAlignY=58&descColor=1a4d28" alt="header"/>
 
 <!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=1a4d28&center=true&vCenter=true&width=600&lines=Building+pipelines+that+don't+break....+maybe;Kubernetes+%7C+Docker+%7C+CI%2FCD;STIG+compliant+%7C+Security-focused;Automating+everything+with+Bash+%26+Python)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=1a4d28&center=true&vCenter=true&width=600&lines=Building+pipelines+that+don't+break....+maybe;Kubernetes+%7C+Docker+%7C+CI%2FCD;STIG+compliant+%7C+Security+focused;Automating+everything+with+Bash+%26+Python)](https://git.io/typing-svg)
 
 </div>
 
