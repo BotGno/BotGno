@@ -19,6 +19,7 @@ education: Chas Academy — DevOps Engineering (2025–2027)
 languages:
   - Swedish (fluent)
   - English (fluent)
+  - Russian (fluent)
 interests:
   - CI/CD pipeline design
   - linux
