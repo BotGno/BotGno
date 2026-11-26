@@ -59,17 +59,6 @@ interests:
 
 ---
 
-## 📬 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a0f00?style=for-the-badge&logo=linkedin&logoColor=00a830)](https://linkedin.com/in/remembermeplease)
-[![Email](https://img.shields.io/badge/Email-1a0f00?style=for-the-badge&logo=gmail&logoColor=00a830)](mailto:elnoramazon@gmail.com)
-
-</div>
-
----
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff48,50:00a830,100:017021&height=100&section=footer" alt="footer"/>
